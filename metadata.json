@@ -1,0 +1,6 @@
+{
+  "name": "Vozes de Crateús - Espaço Seguro de Relatos e Apoio",
+  "description": "Plataforma comunitária acolhedora para relatos de violência, abuso e injustiça em Crateús (CE) e região, com publicação anônima, moderação cívica, reações de solidariedade e central de direitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
